@@ -1,0 +1,7 @@
+FMC Specs provided onboard the FMC Card Carrier V2 (AVNET)
+
+VADJ - 1.8V (when inserted with Z7030) - up to 4A
+3.3V and VCCO_13 - up to 4A
+1.0V_AVCC - up to 1.2A
+1.2V_AVTT - up to 1.2A
+1.8V LDO (@ 200mA)
