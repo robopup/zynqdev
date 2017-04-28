@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Advanced Dev Projects of Company X - Aurora ON
 
-You can use the [editor on GitHub](https://github.com/robopup/zynqdev/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site is used to post and wiki basic non protected information on the work we are doing. A common point for referencing and datasheets of our department.
 
 ### Markdown
 
