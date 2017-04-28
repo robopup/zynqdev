@@ -1,4 +1,4 @@
-## Welcome to Advanced Dev Projects of Company X - Aurora ON
+## Welcome to Advanced Dev Projects of X - Aurora ON
 
 This site is used to post and wiki basic non protected information on the work we are doing. A common point for referencing and datasheets of our department.
 
@@ -32,4 +32,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with this site? [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Recommendations on how to improve this site? [contact site overlord](http://github.com/contact) and we'll do our best to implement necessary changes.
